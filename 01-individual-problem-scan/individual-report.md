@@ -36,9 +36,9 @@
 - Ý bỏ vì không phải pain thật:
 
 **Self-check Phase 1:**
-- [ ] Đủ 5+ dòng, mỗi dòng có actor + số đo cụ thể
-- [ ] Dùng ít nhất 3/4 lăng kính
-- [ ] Không có dòng chung chung kiểu "mất nhiều thời gian"
+- [X] Đủ 5+ dòng, mỗi dòng có actor + số đo cụ thể
+- [X] Dùng ít nhất 3/4 lăng kính
+- [] Không có dòng chung chung kiểu "mất nhiều thời gian"
 
 ---
 
@@ -50,9 +50,9 @@ Giữ bài nào: actor cụ thể, workflow vẽ được 3-7 bước, bottlenec
 
 | Rank | Problem (copy từ bảng scan) | Vì sao chọn (2-3 ý) | Điều còn chưa chắc |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+| 1 | Chỉnh sửa CV và Cover letter theo từng mô tả công việc khác nhau khi rải CV ứng tuyển | Sinh viên/Fresher | Sinh viên phải liên tục suy nghĩ cách "đảo chữ", lồng ghép từ khóa kỹ năng của JD mà vẫn giữ được tính trung thực, dẫn đến cạn ý tưởng (blank page) và tốn 15–20 phút/lần nộp |
+| 2 | Chỉnh sửa lại font chữ, căn lề, bìa theo chuẩn cho mỗi bài báo cáo, đồ án | Người làm doc/tài liệu | Mỗi khi chèn thêm bảng biểu hay hình ảnh, bố cục lại bị vỡ hoặc nhảy trang, buộc sinh viên phải loay hoay sửa qua sửa lại tốn 15–20 phút ngay trước deadline. |
+| 3 | Tìm các bài chấp nhận tuyển dụng với vị trí/kinh nghiệm của bản thân | Người làm doc/tài liệu | Bottleneck nằm ở bước phải nhấp mở từng bài đăng và cuộn xuống đọc lướt các JD dài hàng trang chỉ để tìm dòng quy định "yêu cầu kinh nghiệm". Thao tác thủ công này lặp đi lặp lại trên 5–7 website khác nhau, ngốn 35–40 phút nhưng 80% tin mở ra lại bị loại vì đòi hỏi 1–2 năm kinh nghiệm. |
 
 ### 2.2. Problem Cards chi tiết (lặp lại cho cả 3 cards)
 
@@ -150,11 +150,11 @@ Non-AI alternative: Dùng file Normal Template (.dotx trong Word hoặc LaTeX) c
 AI hypothesis: AI/Script nhận file văn bản thô, tự động nhận diện cấu trúc (tiêu đề, nội dung, bảng) và format toàn bộ theo đúng stylesheet chuẩn.
 
 Quick gut:
-[ ] No AI / process fix
+[X] No AI / process fix
 [X] Rule
-[ ] Workflow
-[ ] Agent
-[ ] Chưa biết
+[X] Workflow
+[X] Agent
+[X] Chưa biết
 ```
 
 **Draft workflow Card #2:**
@@ -263,6 +263,6 @@ Nếu AI đưa ra draft quá tốt nhưng sinh viên phải sửa lại hơn 50%
 - Tôi sửa gì:
 
 ### Self-check nộp phần 01
-- [ ] Có 5+ problems + top 3 Cards đủ field
-- [ ] Mỗi Card có workflow trước/sau + bottleneck + metric + fallback
-- [ ] Đã chọn 1 card pitch + câu hỏi challenge
+- [X] Có 5+ problems + top 3 Cards đủ field
+- [X] Mỗi Card có workflow trước/sau + bottleneck + metric + fallback
+- [X] Đã chọn 1 card pitch + câu hỏi challenge
