@@ -17,11 +17,11 @@
 
 | # | Lăng kính (Lặp lại / Tốn thời gian / AI có thể tốt hơn / Pain từ người khác) | Problem quan sát được | Ai chịu ảnh hưởng? | Dấu hiệu thật (số + bằng chứng) |
 |---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
+| 1 | Lặp lại | Chỉnh sửa CV và Cover letter theo từng mô tả công việc khác nhau khi rải CV ứng | Sinh viên | Tốn 20/30 phút mỗi lần |
+| 2 | Lặp lại | Chỉnh sửa lại font chữ, căn lề, bìa theo chuẩn cho mỗi bài báo cáo, đồ án | Sinh viên | Tốn 45/60 phút mỗi lần|
+| 3 | Tốn thời gian | Tìm các bài chấp nhận tuyển dụng với vị trí/kinh nghiệm của bản thân | Sinh viên | Tốn 1 tiếng lọc tin |
+| 4 | Ai có thể làm tốt hơn | Tạo bộ câu hỏi phỏng vấn thử với JD/yêu cầu tuyển dụng để luyện tập trả lời | Ứng viên | Bản thân mất tự tin khi phỏng vấn thật |
+| 5 | Pain từ người khác | Giảng viên nhận xét, chấm bài chung chung không ghi rõ sai ở đâu, sửa như nào | Sinh viên | Mát 1-2 ngày sửa mò, dễ sai |
 | 6 | | | | |
 | 7 | | | | |
 | 8 | | | | |
